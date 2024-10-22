@@ -121,10 +121,6 @@
 4. ادفع إلى مستودعك المفرع.
 5. أنشئ طلب سحب.
 
-## الترخيص
-
-هذا المشروع مرخص بموجب ترخيص MIT - راجع ملف [LICENSE](LICENSE) لمزيد من التفاصيل.
-
 ## الشكر والتقدير
 
 - [Prisma](https://www.prisma.io/) لتوفير ORM ممتاز لإدارة قواعد البيانات.
@@ -136,9 +132,4 @@
 
 شكرًا لاهتمامك بتطبيق تأجير المساحات التجارية!
 
-```
-
-### Summary
-
-This README file in Arabic mirrors the structure and content of the English version, ensuring that Arabic-speaking users have a comprehensive understanding of the project. You can customize further or adjust any sections as necessary. If you need any more assistance, feel free to ask!
 ```

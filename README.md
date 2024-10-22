@@ -121,9 +121,6 @@ Contributions are welcome! Please follow these steps if you want to contribute t
 4. Push to your forked repository.
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
